@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="D:\Logiciels\lazarus\fpc\3.0.2\bin\x86_64-win64\fpc.exe" Date="1247518955"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FuC:\Users\lucas\Desktop\Projets\Projet Algo - S1\VersionFinale\synapse40\source\lib\lib\x86_64-win64&quot; &quot;-FuC:\Users\lucas\Desktop\Projets\Projet Algo - S1\VersionFinale\internettools\internettools\lib\x86_64-win64&quot; -FuD:\Logiciels\lazarus\packager\units\x86_64-win64 &quot;-FuC:\Users\lucas\Desktop\Projets\Projet Algo - S1\VersionFinale\program\&quot; &quot;-FUC:\Users\lucas\Desktop\Projets\Projet Algo - S1\VersionFinale\program\lib\x86_64-win64\&quot; ProgrammePrincipal.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>

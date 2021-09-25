@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="12">
+      <Unit0>
+        <Filename Value="VersionMinimale.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="37"/>
+        <CursorPos X="100" Y="65"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="resumefindepartie.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ResumeFinDePartie"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="103"/>
+        <CursorPos X="33" Y="100"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="production.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Production"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="110"/>
+        <CursorPos Y="180"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="achatbatiments.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="AchatBatiments"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="10"/>
+        <CursorPos Y="29"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="ressource.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Ressource"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="245"/>
+        <CursorPos Y="282"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="population.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Population"/>
+        <EditorIndex Value="6"/>
+        <CursorPos Y="53"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="menuile.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MenuIle"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="152"/>
+        <CursorPos X="58" Y="156"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="marchant.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Marchant"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="1130"/>
+        <CursorPos Y="1170"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="gestionecran.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GestionEcran"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="294"/>
+        <CursorPos X="87" Y="291"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="gestionbatiments.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GestionBatiments"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="9"/>
+        <CursorPos X="19" Y="10"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="menunouvellepartie.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MenuNouvellePartie"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="25"/>
+        <CursorPos X="114" Y="47"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="menuconnexion.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MenuConnexion"/>
+        <EditorIndex Value="11"/>
+        <TopLine Value="196"/>
+        <CursorPos Y="227"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit11>
+    </Units>
+    <JumpHistory Count="4" HistoryIndex="3">
+      <Position1>
+        <Filename Value="VersionMinimale.lpr"/>
+        <Caret Line="21" Column="38"/>
+      </Position1>
+      <Position2>
+        <Filename Value="population.pas"/>
+        <Caret Line="20" Column="110"/>
+      </Position2>
+      <Position3>
+        <Filename Value="achatbatiments.pas"/>
+        <Caret Line="170" Column="80" TopLine="142"/>
+      </Position3>
+      <Position4>
+        <Filename Value="gestionbatiments.pas"/>
+        <Caret Line="176" Column="19" TopLine="9"/>
+      </Position4>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

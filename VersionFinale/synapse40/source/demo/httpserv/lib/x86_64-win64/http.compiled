@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1357350767"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FuD:\Eileen\IQ 1-1\M1102 - Algorithmique et programmation\Projet\synapse40\source\lib\lib\x86_64-win64&quot; -FuC:\lazarus\packager\units\x86_64-win64 &quot;-FuD:\Eileen\IQ 1-1\M1102 - Algorithmique et programmation\Projet\synapse40\source\demo\httpserv\&quot; &quot;-FUD:\Eileen\IQ 1-1\M1102 - Algorithmique et programmation\Projet\synapse40\source\demo\httpserv\lib\x86_64-win64\&quot; &quot;-FED:\Eileen\IQ 1-1\M1102 - Algorithmique et programmation\Projet\synapse40\source\demo\httpserv\&quot; &quot;-oD:\Eileen\IQ 1-1\M1102 - Algorithmique et programmation\Projet\synapse40\source\demo\httpserv\http.exe&quot; http.pas"/>
+  <Complete Value="False"/>
+</CONFIG>
